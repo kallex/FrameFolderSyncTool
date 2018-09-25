@@ -28,3 +28,5 @@ dotnet FrameFolderSyncTool.dll \\SourceComputer\RepeatingFilter\Captures\ C:\Wha
 
 
 When working, should stay open and move all folders that have "done" file with them named accordingly to target location and removing them as moved from the source. Ctrl + C ends the program when running.
+
+DISCLAIMER: No warranties - use at your own risk.
